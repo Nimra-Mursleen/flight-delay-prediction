@@ -201,7 +201,7 @@ Make sure `/models` folder contains `.pkl` files.
 **Rughma Malik**
 
 **Nimra Mursleen**
-BSE (Software Engineering) – Semester 6
+
 
 ---
 
