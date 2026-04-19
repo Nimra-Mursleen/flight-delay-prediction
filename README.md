@@ -205,6 +205,12 @@ Make sure `/models` folder contains `.pkl` files.
 
 ---
 
+## 🌐 Live Demo
+
+https://flight-delay-prediction-9lyzyt5nyzgxpsnrxwh476.streamlit.app/
+
+---
+
 ## 📜 License
 
 This project is for academic and learning purposes.
