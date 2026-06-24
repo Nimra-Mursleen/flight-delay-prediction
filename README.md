@@ -196,15 +196,6 @@ Make sure `/models` folder contains `.pkl` files.
 
 ---
 
-## 👩‍💻 Team Member
-
-**Rughma Malik**
-
-**Nimra Mursleen**
-
-
----
-
 ## 🌐 Live Demo
 
 https://flight-delay-prediction-9lyzyt5nyzgxpsnrxwh476.streamlit.app/
